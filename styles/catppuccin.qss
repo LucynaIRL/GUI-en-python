@@ -1,0 +1,26 @@
+QPushButton {
+    border-radius: 8px;
+    padding: 6px 12px;
+    background-color: #313244;
+}
+
+QPushButton:hover {
+    background-color: #45475A;
+}
+
+QPushButton:pressed {
+    background-color: #B4BEFE;
+    color: #1E1E2E;
+}
+
+QLineEdit, QTextEdit {
+    border-radius: 6px;
+    padding: 4px;
+    background-color: #313244;
+    border: 1px solid #45475A;
+}
+
+QMenu {
+    background-color: #1E1E2E;
+    border: 1px solid #45475A;
+}

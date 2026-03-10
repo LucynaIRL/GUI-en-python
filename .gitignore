@@ -1,0 +1,6 @@
+.idea/
+.venv/
+build/
+dist/
+jre/
+ProcesadorExcel.spec
